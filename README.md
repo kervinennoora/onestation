@@ -1,2 +1,2 @@
 # onestation
-Configure one workstation with Salt
+Configure one workstation with Salt :)
